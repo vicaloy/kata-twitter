@@ -1,0 +1,33 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/registerFragment">
+
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.valoy.presentation.ui.register.RegisterFragment"
+        android:label="RegisterFragment">
+        <action
+            android:id="@+id/listTweets"
+            app:destination="@id/listTweetFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/listTweetFragment"
+        android:name="com.valoy.presentation.ui.tweets.list.ListTweetFragment"
+        android:label="ListTweetFragment">
+        <argument
+            android:name="nickname"
+            app:argType="string" />
+        <action
+            android:id="@+id/createTweet"
+            app:destination="@id/createTweetFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/createTweetFragment"
+        android:name="com.valoy.presentation.ui.tweets.create.CreateTweetFragment"
+        android:label="CreateTweetFragment" >
+        <argument
+            android:name="nickname"
+            app:argType="string" />
+    </fragment>
+</navigation>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kata Twitter</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="nickname">Nickname</string>
+    <string name="register">Register</string>
+    <string name="nickname_already_registered">Nickname already registered</string>
+    <string name="user_registered">User registered correctly</string>
+    <string name="empty_name">User must have a not empty name</string>
+    <string name="empty_nickname">User must have a not empty nickname</string>
+    <string name="tweets">Tweets</string>
+    <string name="error_getting_tweets">Error getting tweets</string>
+    <string name="server_error">Server error</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="create_tweet">Create tweet</string>
+    <string name="text">Text</string>
+    <string name="create">Create</string>
+    <string name="tweet_created">Tweet created correctly</string>
+    <string name="empty_tweet">Cannot create a tweet with empty text</string>
+</resources>

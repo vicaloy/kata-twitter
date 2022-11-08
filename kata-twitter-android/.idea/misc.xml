@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.12222222222222222" />
+        <entry key="app/src/main/res/drawable/button_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/register_shape.xml" value="0.265" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.32839506172839505" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.2980072463768116" />
+        <entry key="app/src/main/res/layout/create_tweet_fragment.xml" value="0.12318840579710146" />
+        <entry key="app/src/main/res/layout/example_refactor_layut.xml" value="0.13855116514690982" />
+        <entry key="app/src/main/res/layout/list_tweet_fragment.xml" value="0.12318840579710146" />
+        <entry key="app/src/main/res/layout/register_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/tweet_item.xml" value="0.14387031408308004" />
+        <entry key="app/src/main/res/layout/tweets_fragment.xml" value="0.12318840579710146" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
